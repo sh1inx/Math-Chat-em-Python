@@ -1,0 +1,3 @@
+Digite sua expressão matemática,Resultado traduzido,timestamp
+vintedois mais treis,"{'Role': 'Assistant', 'Content': 'Resposta: 25.0 \ n- Ferramenta usada: add \ n- raciocínio: a ferramenta foi usada para calcular a soma de dois números. ""Vintedois Mais Treis"" se traduz em ""vinte e dois mais três"", que é 22 + 3. '}",2025-04-15 20:10:59.601167
+vintajcinco mais sinco,"{'Role': 'Assistant', 'Content': 'Resposta: 30.0 \ n- Ferramenta usada: add \ n- raciocínio: a ferramenta foi usada para calcular a soma de dois números. ""VINTAJCINCO MAIS SINY"" traduz para ""vinte e cinco mais cinco"", que é 25 + 5. '}",2025-04-15 20:16:18.965631
