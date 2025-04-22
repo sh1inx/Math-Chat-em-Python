@@ -27,7 +27,7 @@ def processar_expressao(valor):
 def criar_interface():
     interface = gr.Interface(
         fn=processar_expressao,
-        inputs=gr.Textbox(label="Digite sua expressão matemática", placeholder="Ex: 25 + 5"),
+        inputs=gr.Textbox(label="Digite sua expressão matemática", placeholder="Ex: Vinte e 2 mais cinqueta e 4"),
         outputs=gr.HTML(label="Resultado"),
         title="CHATBOT DE EXPRESSÕES MATEMÁTICAS",
         description="Digite uma expressão matemática para obter o resultado e a explicação em português.",
